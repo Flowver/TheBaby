@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\0000\source\repos\sfml_ex\sfml_ex\</FILEPATH>
+      <FILENAME>AttributeComponent.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>121</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>산술 오버플로: 4 바이트 값의 '*' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '*' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2).</DESCRIPTION>
+    <FUNCTION>AttributeComponent::{ctor}</FUNCTION>
+    <DECORATED>??0AttributeComponent@@QAE@H@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\0000\source\repos\sfml_ex\sfml_ex\</FILEPATH>
+      <FILENAME>AttributeComponent.cpp</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>116</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>산술 오버플로: 4 바이트 값의 '+' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '+' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2).</DESCRIPTION>
+    <FUNCTION>AttributeComponent::{ctor}</FUNCTION>
+    <DECORATED>??0AttributeComponent@@QAE@H@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\0000\source\repos\sfml_ex\sfml_ex\</FILEPATH>
+      <FILENAME>AttributeComponent.cpp</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>108</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>산술 오버플로: 4 바이트 값의 '*' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '*' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2).</DESCRIPTION>
+    <FUNCTION>AttributeComponent::updateLevel</FUNCTION>
+    <DECORATED>?updateLevel@AttributeComponent@@QAEXXZ</DECORATED>
+    <FUNCLINE>90</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,90 @@
+﻿  DefaultEditorMode.cpp
+  EditorModes.cpp
+  EditorState.cpp
+  Entity.cpp
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\Entity.cpp(92): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\Entity.cpp(91): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\Entity.cpp(97): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\Entity.cpp(96): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+  GameState.cpp
+  MainMenuState.cpp
+  Player.cpp
+  PlayerGUI.cpp
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\PlayerGUI.cpp(50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\PlayerGUI.cpp(93): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Portal.cpp
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\Portal.cpp(90): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Potion.cpp
+  SettingsState.cpp
+  State.cpp
+  TileMap.cpp
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(354): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(360): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(366): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(372): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(446): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(452): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(458): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\TileMap.cpp(464): warning C4244: '=': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  enemy.cpp
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\0000\source\repos\sfml_ex\sfml_ex\enemy.cpp(26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  sfml_ex.vcxproj -> C:\Users\0000\source\repos\sfml_ex\Debug\sfml_ex.exe

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\0000\source\repos\sfml_ex\sfml_ex\</FILEPATH>
+      <FILENAME>TextTagSystem.h</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>열거형 형식 'sf::PrimitiveType'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요.</DESCRIPTION>
+    <FUNCTION>sf::VertexArray::=</FUNCTION>
+    <DECORATED>??4VertexArray@sf@@QAEAAV01@ABV01@@Z</DECORATED>
+    <FUNCLINE>192</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
